@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @TheWinterFox
-- 👀 I’m interested in Python (AI) and Arduino 
+- 👋 Hi, I’m @_Winter_
+- 👀 I’m interested in Python and Arduino 
 - 🌱 I’m currently learning Python basics and Arduino
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
