@@ -3,7 +3,6 @@
 
 *Computer Science Student | Embedded Systems • Robotics • Software Engineering*
 
-📍 Budapest, Hungary | Eötvös Loránd University (ELTE)
 
 ---
 
