@@ -1,20 +1,36 @@
-# 💫 About Me:
-Hi! I'm Winter<br>Calm mind with infinite curiosity<br>
+# Gerardo Ruiz
+**TheWinterFox**
 
+*Computer Science Student | Embedded Systems • Robotics • Software Engineering*
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TheWinterFox&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=TheWinterFox&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheWinterFox&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+📍 Budapest, Hungary | Eötvös Loránd University (ELTE)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=TheWinterFox&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### About Me
 
-<!---
-TheWinterFox/TheWinterFox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Computer Science student with a passion for building systems where software meets hardware.
+
+### Featured Projects
+
+**[Mark III Gauntlet — Hand Control System](https://github.com/TheWinterFox/Hand_control)**
+
+An Arduino-based wearable control system inspired by the Iron Man Mark III armor. Integrates flex and pressure sensors with servo motors to create a gesture-controlled mechanical system.
+
+`Arduino` `C++` `Sensors` `Servo Control`
+
+**[ANJA — Discord Chatbot](https://github.com/TheWinterFox/ANJA_TEST)**
+
+A Python-based Discord chatbot exploring event-driven programming, command handling, and automated interactions.
+
+`Python` `Discord.py` `JSON`
+
+### Technical Stack
+
+| Area | Technologies |
+|---|---|
+| Programming | Python, C, C++ |
+| Embedded Systems | Arduino, ESP32, RP2040 |
+| Hardware Development | Sensors, Actuators, OLED Displays |
+| Tools | Git, Linux, KiCad, Arduino IDE |
+
