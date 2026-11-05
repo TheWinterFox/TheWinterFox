@@ -1,7 +1,7 @@
 # Gerardo Ruiz
 **TheWinterFox**
 
-*Computer Science Student | Embedded Systems • Robotics • Software Engineering*
+*Computer Science Student | Embedded Systems • Robotics • Software Engineering*       
 📍 Budapest, Hungary | Eötvös Loránd University (ELTE)
 
 ---
