@@ -2,15 +2,13 @@
 **TheWinterFox**
 
 *Computer Science Student | Embedded Systems • Robotics • Software Engineering*
-
+📍 Budapest, Hungary | Eötvös Loránd University (ELTE)
 
 ---
 
 ### About Me
 
-- I'm a Computer Science student with a passion for building systems where software meets hardware.
-- Tea person 🍵  
-- I love reading books, drawing and playing the piano 🎹
+I'm a Computer Science student with a passion for building systems where software meets hardware.
 
 ---
 
