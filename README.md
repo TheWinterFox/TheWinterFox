@@ -29,7 +29,7 @@ A Python-based Discord chatbot exploring event-driven programming, command handl
 
 | Area | Technologies |
 |---|---|
-| Programming | Python, C, C++ |
+| Programming | Python, C, C++, Haskell |
 | Embedded Systems | Arduino, ESP32, RP2040 |
 | Hardware Development | Sensors, Actuators, OLED Displays |
 | Tools | Git, Linux, KiCad, Arduino IDE |
