@@ -11,19 +11,7 @@
 
 I'm a Computer Science student with a passion for building systems where software meets hardware.
 
-### Featured Projects
-
-**[Mark III Gauntlet — Hand Control System](https://github.com/TheWinterFox/Hand_control)**
-
-An Arduino-based wearable control system inspired by the Iron Man Mark III armor. Integrates flex and pressure sensors with servo motors to create a gesture-controlled mechanical system.
-
-`Arduino` `C++` `Sensors` `Servo Control`
-
-**[ANJA — Discord Chatbot](https://github.com/TheWinterFox/ANJA_TEST)**
-
-A Python-based Discord chatbot exploring event-driven programming, command handling, and automated interactions.
-
-`Python` `Discord.py` `JSON`
+---
 
 ### Technical Stack
 
